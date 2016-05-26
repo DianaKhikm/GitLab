@@ -1,6 +1,3 @@
 git 
-abc
-fd
-sodfs
-fg
+a
 fdg
